@@ -19,5 +19,7 @@ Current planned support is for the [cameras in Tim's spreadsheet](https://docs.g
 
  * [speakertrack branch of gst-switch](https://github.com/timvideos/gst-switch/tree/speaker-tracking/)
    * Code in `tools/gstswitchptz.*` files
+   * Code in the [gst-plugins-bad repo](https://github.com/timvideos/gst-plugins-bad/). Look in the `speakertrack_*` branches.
+
  * [libvisca](https://damien.douxchamps.net/libvisca/)
 
